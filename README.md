@@ -1,16 +1,12 @@
 # Stellar-talk
 
 STELLAR TALK is a simple messaging dapp built on Soroban Testnet.
-
-Built using the [@create-soroban-dapp](https://github.com/paltalabs/create-soroban-dapp/) boilerplate and script.
-
-You can find a written [tutorial](https://dev.to/benjaminsalon/sorochat-how-to-build-a-simple-chat-dapp-using-create-soroban-dapp-295l) explaining how to create the dapp on my dev.to 🚀
 ## Build and run
 
 To build the dapp first clone the repo
 
 ```bash
-git clone https://github.com/benjaminsalon/sorochat.git
+git clone https://github.com/Souvik34/Soroban-Accelerated-Bootcamp-in-India-Final-Project
 ```
 
 Then install dependencies using pnpm (or the equivalent commands with your favorite package manager)
