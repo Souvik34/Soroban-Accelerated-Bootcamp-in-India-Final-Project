@@ -2,6 +2,7 @@
 
 STELLAR TALK: A Decentralized Peer-to-Peer Chat DApp built on Soroban Testnet.
 - Developer: Souvik Sural
+- Contract Address: GC3B5UEWCBDSIPDJKCPYWUZYTWXEUESYGUKMBQDXWMHK2SD6R2ONZMCS
 
 ## Description
 
