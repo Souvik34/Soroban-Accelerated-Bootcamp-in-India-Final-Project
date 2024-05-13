@@ -3,7 +3,7 @@
 STELLAR TALK: A Decentralized Peer-to-Peer Chat DApp built on Soroban Testnet.
 - Developer: Souvik Sural
 
-##Description
+## Description
 
 Stellar-Talk is a chat decentralized application (DApp) that enables users to communicate with each other in a decentralized, and peer-to-peer manner on the Stellar blockchain. The DApp leverages the power of blockchain technology to provide a transparent communication platform.
 
