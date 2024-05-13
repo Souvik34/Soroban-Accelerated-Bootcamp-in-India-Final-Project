@@ -11,7 +11,7 @@ const StyledIconLink = styled(Link)(() => [
 
 export const HomePageTitle: FC = () => {
   const title = 'Stellar-Talk'
-  const desc = 'Simple chat app for Soroban.'
+  const desc = 'Simple chat Dapp for Soroban.'
   const githubHref = 'https://github.com/Souvik34/Stellar-talk'
 
   return (

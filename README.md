@@ -15,6 +15,8 @@ Stellar-Talk also includes features such as user authentication and message hist
 
 Overall, Stellar-Talk provides a decentralized way for users to communicate with each other, without relying on centralized servers or intermediaries. By using the Stellar blockchain, Stellar-Talk can leverage its fast and low-cost transactions to provide a seamless and efficient communication experience.
 
+![alt text](image.png)
+
 
 
 ## Build and run
