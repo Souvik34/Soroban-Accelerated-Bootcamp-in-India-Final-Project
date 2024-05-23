@@ -1,6 +1,8 @@
 # Stellar-talk
 
 Project Visual
+![Gemini_Generated_Image_n341gdn341gdn341](https://github.com/Souvik34/Soroban-Accelerated-Bootcamp-in-India-Final-Project/assets/98397984/610bc05f-02f5-460c-8445-8ca833685248)
+
 
 ## About me
 
