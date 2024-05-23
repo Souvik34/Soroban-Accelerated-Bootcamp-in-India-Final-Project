@@ -57,6 +57,10 @@ Monitor and optimize post-deployment performance and user experience.
 
 Rust and Web3
 
+## Contract Address
+
+```GC3B5UEWCBDSIPDJKCPYWUZYTWXEUESYGUKMBQDXWMHK2SD6R2ONZMCS```
+
 ## Setup Environment
 
 Install Dependencies
